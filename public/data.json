@@ -1,0 +1,58 @@
+[
+  {
+    "category": "offer",
+    "name": "Roast Duck Breast ",
+    "price": 15,
+    "image": "https://i.ibb.co/ZxtPQjj/duck-breast-finished-1200-949x1024.webp",
+    "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce"
+  },
+  {
+    "category": "desert",
+    "name": "Damson crumble ",
+    "price": 15,
+    "image": "https://i.ibb.co/P4x6L8v/damson-crumble-d2ab73c.webp",
+    "description": "This damson and apple crumble will go down a treat as a family dessert. "
+  },
+  {
+    "category": "pizza",
+    "name": "Cheese Pizza ",
+    "price": 27,
+    "image": "https://i.ibb.co/tYPtFQs/Goat-Cheese-Pizza-002.jpg",
+    "description": "It should be no shocker that a classic is the statistical favorite. "
+  },
+  {
+    "category": "salad",
+    "name": "Chopped Salad ",
+    "price": 55,
+    "image": "https://i.ibb.co/ThzWz8z/Chopped-Salad-010.webp",
+    "description": "This chopped salad will amaze everyone around the table! We served this salad at a dinner party "
+  },
+  {
+    "category": "soup",
+    "name": "Bacon and Beef Stew ",
+    "price": 13,
+    "image": " https://i.ibb.co/gwtdKw0/Bacon-Beef-Barley-Soup-EXPS-HSCBZ17-41339-C07-25-6b-4.jpg",
+    "description": " Savory, rich bacon and beef pair perfectly with beer, mustard, and red wine vinegar creating a well-rounded, complex flavor profile. "
+  },
+  {
+    "category": "drinks",
+    "name": "Bubble Tea Powders",
+    "price": 23,
+    "image": "https://i.ibb.co/8d7NQBG/bubble-powder.jpg",
+    "description": "Bubble tea powders empower you to quickly prepare and serve beloved bubble tea staples.   "
+  },
+  {
+    "category": "indian",
+    "name": "Beef Pasanda",
+    "price": 79,
+    "image": "https://i.ibb.co/k5289Xm/Beef-Pasanda.jpg",
+    "description": "Pasanda is a popular North Indian and Pakistani meat dish. It’s made with slim slice of meat. Here is a simple and yummy Pasanda recipe from the desk of cooking experts to make your each day special. So let’s try this easy recipe and give your views."
+  },
+  {
+    "category": "thai",
+    "name": "Mango-Sticky-Rice",
+    "price": 39,
+    "image": "https://i.ibb.co/SPf3NGT/11-Best-Thai-Food-Dishes-Mango-Sticky-Rice.webp",
+    "description": "Classic chilled latte with a hint of Vanilla."
+  }
+]
